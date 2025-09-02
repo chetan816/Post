@@ -1,2 +1,2 @@
-import g
-g.main()
+import post
+post.main()
